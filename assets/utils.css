@@ -1,0 +1,50 @@
+.centerText {
+  text-align: center !important;
+}
+
+.centerElement {
+  left: 50% !important;
+  position: absolute;
+  transform: translateX(-50%) !important;
+}
+
+.absolute {
+  position: absolute !important;
+}
+
+.fixed {
+  position: fixed !important;
+}
+
+.relative {
+  position: relative !important;
+}
+
+.block {
+  display: block !important;
+}
+
+.inline-block {
+  display: inline-block !important;
+}
+
+.noDisplay {
+  display: none !important;
+}
+
+.flex {
+  display: flex !important;
+}
+
+.noBr {
+  display: inline-block !important;
+  white-space: nowrap !important;
+}
+
+.supercenter {
+  top: 50% !important;
+  left: 50% !important;
+  position: absolute;
+  max-width: 100%;
+  transform: translate(-50%,-50%) !important;
+}
